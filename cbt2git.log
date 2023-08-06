@@ -1,0 +1,11 @@
+2023-08-06 06:16:20.843487 - Initialized conversion of CBT653
+2023-08-06 06:16:20.911230 - Received CBT.V505.FILE653.PDS from FILE653.XMI 
+2023-08-06 06:16:20.913352 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE653.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:16:20.914269 - Found @FILE653.txt (text/plain) in CBT.V505.FILE653.PDS, moved to PDS/@FILE653
+2023-08-06 06:16:20.915370 - Found ALLOC.txt (text/plain) in CBT.V505.FILE653.PDS, moved to PDS/ALLOC
+2023-08-06 06:16:20.916505 - Found ALLODEMO.txt (text/plain) in CBT.V505.FILE653.PDS, moved to PDS/ALLODEMO
+2023-08-06 06:16:20.917371 - Found ASM.jcl (text/plain) in CBT.V505.FILE653.PDS, moved to PDS/ASM
+2023-08-06 06:16:20.918317 - Found CONCAT.txt (text/plain) in CBT.V505.FILE653.PDS, moved to PDS/CONCAT
+2023-08-06 06:16:20.919180 - Found CONTENTS.txt (text/plain) in CBT.V505.FILE653.PDS, moved to PDS/CONTENTS
+2023-08-06 06:16:20.919995 - Found DDCHK.txt (text/plain) in CBT.V505.FILE653.PDS, moved to PDS/DDCHK
+2023-08-06 06:16:20.920912 - Found UNALLOC.txt (text/plain) in CBT.V505.FILE653.PDS, moved to PDS/UNALLOC
